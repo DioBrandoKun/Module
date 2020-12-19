@@ -1,0 +1,16 @@
+# SPDX-License-Identifier: GPL-2.0
+#
+# Bus Devices
+#
+
+menu "Useless"
+
+
+
+config NikitaTheBest
+	tristate "Kill me plz"
+	help
+	  Don't use it
+
+
+endmenu
